@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: #fff;
+  color: #a54328;
+}
+
+:root {
+  font-size: 62.5%;
+  font-family: "Source Serif 4", serif;
+}
+
+main {
+  width: 32.5rem;
+  padding: 5.6rem 4rem;
+  margin-inline: auto;
+  box-sizing: content-box;
+  display: flex;
+  flex-direction: column;
+  gap: 3.2rem;
+}
+
+img {
+    width: 100%;
+    margin-block: 3.2rem;
+}
+
+.recipe h1,
+.ingredients h2 {
+  font-size: 2.8rem;
+  line-height: 3.2rem;
+}
+
+.ingredients h2 {
+  margin-bottom: 3.2rem;
+}
+
+p,
+li,
+strong {
+  font-size: 1.4rem;
+  line-height: 1.8rem;
+}
+
+ul, ol {
+  margin-left: 2.4rem;
+}
+
+ul {
+  margin-bottom: 2.4rem;
+}
+
+button {
+  background: #a54328;
+  color: #fff;
+  padding: 1.1rem;
+  border-radius: 0.6rem;
+  border: 0;
+  margin-top: 3.2rem;
+}
