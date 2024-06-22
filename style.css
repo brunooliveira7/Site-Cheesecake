@@ -78,6 +78,10 @@ button:hover {
     gap: 16rem;
   }
 
+  body {
+    background: url(./assets/background\ desktop.jpg) lightgray 50%;
+  }
+
   .recipe {
     max-width: 42.5rem;
   }
