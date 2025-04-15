@@ -1,4 +1,4 @@
-<h1 align="center"> Fotoblog </h1>
+<h1 align="center"> Site Cheesecake </h1>
 
 <p align="center">
 O site fotoblog concentra-se na publicação de fotografias e imagens, com informações concisas, em vez de longos textos em um site. Site disponível em: https://brunooliveira7.github.io/Site-Fotoblog/
