@@ -12,7 +12,7 @@ O site fotoblog concentra-se na publicação de fotografias e imagens, com infor
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Site-Fotoblog/blob/main/assets/Layout%20fotoblog.png">
+  <img alt="License" src="">
 </p>
 
 <br>
