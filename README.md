@@ -29,10 +29,6 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 O site fotoblog possui campo para pesquisas de fotografias e imagens, com login e usuário, que facilitam a navegação.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/Pg502b6GJofDi9txwPUFPH/Fotoblog-%E2%80%A2-Projeto-Explorer-(Community)?node-id=0-1&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
