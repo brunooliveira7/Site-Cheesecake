@@ -1,7 +1,7 @@
 <h1 align="center"> Site Cheesecake </h1>
 
 <p align="center">
-O site fotoblog concentra-se na publicação de fotografias e imagens, com informações concisas, em vez de longos textos em um site. Site disponível em: https://brunooliveira7.github.io/Site-Cheesecake/
+O site Cheesecake tem um receita completa de um bolo de queijo delicioso, e é responsivo, ou seja, o conteúdo se adapta para qualquer tamanho de tela. Site disponível em: https://brunooliveira7.github.io/Site-Cheesecake/
 </p>
 
 <p align="center">
