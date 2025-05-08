@@ -1,7 +1,7 @@
 <h1 align="center"> Site Cheesecake </h1>
 
 <p align="center">
-O site Cheesecake tem um receita completa de um bolo de queijo delicioso, e é responsivo, ou seja, o conteúdo se adapta para qualquer tamanho de tela. Site disponível em: https://brunooliveira7.github.io/Site-Cheesecake/
+Este site apresenta um delicioso cheesecake com um visual apetitoso e elegante. Desenvolvido com um design limpo e moderno, ele é totalmente responsivo, garantindo que o conteúdo se adapte perfeitamente a qualquer tamanho de tela — seja em computadores, tablets ou smartphones. Site disponível em: https://brunooliveira7.github.io/Site-Cheesecake/
 </p>
 
 <p align="center">
