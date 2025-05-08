@@ -31,7 +31,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site fotoblog possui campo para pesquisas de fotografias e imagens, com login e usuário, que facilitam a navegação.
+A navegação é simples e intuitiva, oferecendo uma ótima experiência ao usuário. Ideal para quem quer conhecer mais sobre essa sobremesa incrível de forma prática e agradável.
 
 ## :memo: Licença
 
