@@ -27,7 +27,6 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
