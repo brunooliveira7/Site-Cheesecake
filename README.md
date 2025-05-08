@@ -16,7 +16,7 @@ O site Cheesecake tem um receita completa de um bolo de queijo delicioso, e é r
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/brunooliveira7/Site-Cheesecake/blob/main/assets/Layout%20-%20mobile.png">
 </p>
 
 <br>
